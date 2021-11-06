@@ -5,3 +5,9 @@ Member 2:
 Austin Hood(2)
 
 git clone https://github.com/AustinHood7/VCSHome.git
+
+git add vcscen3031.txt
+
+git commit -m "added the clone command to the file"
+
+git push https://github.com/AustinHood7/VCSHome.git
