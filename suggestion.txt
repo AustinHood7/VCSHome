@@ -1,0 +1,7 @@
+fork the repo on GitHub
+clone it to your system
+make a new branch
+make changes
+push it into your repo
+compare and pull request
+create pull request
